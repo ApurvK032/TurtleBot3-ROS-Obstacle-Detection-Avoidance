@@ -81,6 +81,18 @@ The robot follows keyboard commands normally. When an obstacle is detected withi
 3. Continues until obstacle is cleared
 4. Returns control to teleop
 
+
+## Demo
+
+### Gazebo Simulation
+![Gazebo Environment](images/1.png)
+
+### Obstacle Detection
+![Obstacle Detection](images/2.png)
+
+### Avoidance Behavior
+![Avoidance in Action](images/3.png)
+
 ## Node Architecture
 
 ### obstacle_detection.py
